@@ -1,2 +1,5 @@
-let hello: string = "Hello World！";
-console.log(hello);
+import { AA } from "./types.js";
+
+const aa: AA = { a: 10 };
+
+console.log("aloha", aa);
