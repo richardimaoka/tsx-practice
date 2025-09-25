@@ -1,4 +1,4 @@
-import { AA } from "./types.js";
+import type { AA } from "./types.js";
 
 const aa: AA = { a: 10 };
 

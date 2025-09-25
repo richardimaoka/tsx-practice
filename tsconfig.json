@@ -16,6 +16,9 @@
     "esModuleInterop": true,
 
     // Disallow features that require cross-file awareness
-    "isolatedModules": true
+    "isolatedModules": true,
+
+    // It's also recommended to enable verbatimModuleSyntax which requires you to write your type imports & exports using explicit syntax.
+    "verbatimModuleSyntax": true
   }
 }
